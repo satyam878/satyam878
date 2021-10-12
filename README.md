@@ -22,7 +22,7 @@ With "Data Structures with Python by NPTEL", i have solved around 200+ questions
 
 [Instagram](https://instagram.com/satyam_1908)
 
-[Twitter](https://twitter.com/satyam8787)
+[Twitter](https://twitter.com/satyam_1908)
 
 [Hackerrank](https://www.hackerrank.com/satyam878)
 
