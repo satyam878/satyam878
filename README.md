@@ -18,8 +18,6 @@ With "Data Structures with Python by NPTEL", i have solved around 200+ questions
 
 **Email** : satyam878@gmail.com
 
-[Portfolio](https://anujportfolio.herokuapp.com/)
-
 [Linkedin](https://www.linkedin.com/in/satyam878/)
 
 [Instagram](https://instagram.com/satyam_1908)
@@ -31,23 +29,3 @@ With "Data Structures with Python by NPTEL", i have solved around 200+ questions
 [Leet Code](https://leetcode.com/satyam_1908/)
 
 
-
-# Some of the projects :
-
-<a href="https://github.com/singhanuj620/git_firebase_api">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=singhanuj620&repo=git_firebase_api" />
-</a>
-</br>
-<a href="https://github.com/singhanuj620/freecodecamp_scrap">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=singhanuj620&repo=freecodecamp_scrap" />
-</a>
-<a href="https://github.com/singhanuj620/yelpcamp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=singhanuj620&repo=yelpcamp" />
-</a>
-</br>
-<a href="https://github.com/singhanuj620/likeComment_instagramBot">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=singhanuj620&repo=likeComment_instagramBot" />
-</a>
-<a href="https://github.com/singhanuj620/instabot-uploadphoto">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=singhanuj620&repo=instabot-uploadphoto" />
-</a>
